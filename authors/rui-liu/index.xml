@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rui Liu on Academic</title>
+    <link>https://jliuocean.github.io/authors/rui-liu/</link>
+    <description>Recent content in Rui Liu on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Sep 2016 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://jliuocean.github.io/authors/rui-liu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Numerical study on the influences of Nanliu River runoff and tides on water age in Lianzhou Bay</title>
+      <link>https://jliuocean.github.io/publication/yu-2016-numerical/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://jliuocean.github.io/publication/yu-2016-numerical/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

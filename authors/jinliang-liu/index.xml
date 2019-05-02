@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jinliang Liu on Academic</title>
+    <title>**Jinliang Liu** on Academic</title>
     <link>https://jliuocean.github.io/authors/jinliang-liu/</link>
-    <description>Recent content in Jinliang Liu on Academic</description>
+    <description>Recent content in **Jinliang Liu** on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 May 2019 23:29:26 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2019 23:53:12 -0500</lastBuildDate>
     
 	<atom:link href="https://jliuocean.github.io/authors/jinliang-liu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Modeling sediment flocculation in Langmuir turbulence</title>
+      <link>https://jliuocean.github.io/publication/liu-2019-modeling/</link>
+      <pubDate>Wed, 01 May 2019 23:53:12 -0500</pubDate>
+      
+      <guid>https://jliuocean.github.io/publication/liu-2019-modeling/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Surface Gravity Waves and Their Role in Ocean-Atmosphere Coupling in the Gulf of Mexico</title>
@@ -35,6 +44,15 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>https://jliuocean.github.io/publication/sun-2017-sensitivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical study on the influences of Nanliu River runoff and tides on water age in Lianzhou Bay</title>
+      <link>https://jliuocean.github.io/publication/yu-2016-numerical/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://jliuocean.github.io/publication/yu-2016-numerical/</guid>
       <description></description>
     </item>
     
