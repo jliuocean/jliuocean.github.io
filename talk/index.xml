@@ -1,14 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Academic</title>
+    <title>Recent Talks on Academic</title>
     <link>https://jliuocean.github.io/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Academic</description>
+    <description>Recent content in Recent Talks on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 16 Feb 2018 09:15:00 -0500</lastBuildDate>
     
 	<atom:link href="https://jliuocean.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Effect of Planetary Rotation on Oceanic Surface Boundary Layer Turbulence</title>
+      <link>https://jliuocean.github.io/talk/osm2018/</link>
+      <pubDate>Fri, 16 Feb 2018 09:15:00 -0500</pubDate>
+      
+      <guid>https://jliuocean.github.io/talk/osm2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Coriolis force not discussed in ocs4170 and its effect on upper ocean mixing</title>
+      <link>https://jliuocean.github.io/talk/cego2017/</link>
+      <pubDate>Fri, 01 Sep 2017 12:00:00 -0500</pubDate>
+      
+      <guid>https://jliuocean.github.io/talk/cego2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of planetary rotation on wind and wave driven turbulence -- a numerical study</title>
+      <link>https://jliuocean.github.io/talk/gss2016/</link>
+      <pubDate>Sat, 18 Mar 2017 11:00:00 -0500</pubDate>
+      
+      <guid>https://jliuocean.github.io/talk/gss2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large eddy simulation of suspended sediments in shallow water</title>
+      <link>https://jliuocean.github.io/talk/gsa2016/</link>
+      <pubDate>Mon, 21 Mar 2016 17:05:00 -0500</pubDate>
+      
+      <guid>https://jliuocean.github.io/talk/gsa2016/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

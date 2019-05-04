@@ -3,6 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jliuocean.github.io/</loc>
+    <lastmod>2019-05-03T22:30:34-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jliuocean.github.io/research/fh/</loc>
+    <lastmod>2019-05-03T22:30:34-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jliuocean.github.io/research/</loc>
+    <lastmod>2019-05-03T22:30:34-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jliuocean.github.io/authors/jinliang-liu/</loc>
     <lastmod>2019-05-01T23:53:12-05:00</lastmod>
     <priority>0</priority>
@@ -10,12 +27,6 @@
   
   <url>
     <loc>https://jliuocean.github.io/publication_types/2/</loc>
-    <lastmod>2019-05-01T23:53:12-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jliuocean.github.io/</loc>
     <lastmod>2019-05-01T23:53:12-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -96,6 +107,34 @@
   </url>
   
   <url>
+    <loc>https://jliuocean.github.io/talk/osm2018/</loc>
+    <lastmod>2018-02-16T09:15:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jliuocean.github.io/authors/james-c.-mcwilliams/</loc>
+    <lastmod>2018-02-16T09:15:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jliuocean.github.io/authors/peter-p.-sullivan/</loc>
+    <lastmod>2018-02-16T09:15:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jliuocean.github.io/authors/qin-j.-chen/</loc>
+    <lastmod>2018-02-16T09:15:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jliuocean.github.io/talk/</loc>
+    <lastmod>2018-02-16T09:15:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jliuocean.github.io/publication/liu-2018-effect/</loc>
     <lastmod>2018-01-01T00:00:00-06:00</lastmod>
   </url>
@@ -110,6 +149,16 @@
     <loc>https://jliuocean.github.io/authors/peter-p-sullivan/</loc>
     <lastmod>2018-01-01T00:00:00-06:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jliuocean.github.io/talk/cego2017/</loc>
+    <lastmod>2017-09-01T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jliuocean.github.io/talk/gss2016/</loc>
+    <lastmod>2017-03-18T11:00:00-05:00</lastmod>
   </url>
   
   <url>
@@ -177,6 +226,11 @@
   </url>
   
   <url>
+    <loc>https://jliuocean.github.io/talk/gsa2016/</loc>
+    <lastmod>2016-03-21T17:05:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jliuocean.github.io/author/admin/</loc>
   </url>
   
@@ -192,10 +246,6 @@
   
   <url>
     <loc>https://jliuocean.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jliuocean.github.io/talk/</loc>
   </url>
   
   <url>
