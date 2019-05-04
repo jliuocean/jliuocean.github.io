@@ -3,35 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jliuocean.github.io/</loc>
-    <lastmod>2019-05-03T22:49:55-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jliuocean.github.io/research/fh/</loc>
-    <lastmod>2019-05-03T22:49:55-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jliuocean.github.io/research/</loc>
-    <lastmod>2019-05-03T22:49:55-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jliuocean.github.io/tags/</loc>
-    <lastmod>2019-05-03T22:49:55-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jliuocean.github.io/tags/fh/</loc>
-    <lastmod>2019-05-03T22:49:55-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://jliuocean.github.io/authors/jinliang-liu/</loc>
     <lastmod>2019-05-01T23:53:12-05:00</lastmod>
     <priority>0</priority>
@@ -39,6 +10,12 @@
   
   <url>
     <loc>https://jliuocean.github.io/publication_types/2/</loc>
+    <lastmod>2019-05-01T23:53:12-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jliuocean.github.io/</loc>
     <lastmod>2019-05-01T23:53:12-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -115,6 +92,29 @@
   <url>
     <loc>https://jliuocean.github.io/authors/yalin-fan/</loc>
     <lastmod>2019-05-01T23:29:26-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jliuocean.github.io/research/fh/</loc>
+    <lastmod>2019-05-01T13:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jliuocean.github.io/research/</loc>
+    <lastmod>2019-05-01T13:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jliuocean.github.io/tags/</loc>
+    <lastmod>2019-05-01T13:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jliuocean.github.io/tags/fh/</loc>
+    <lastmod>2019-05-01T13:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   

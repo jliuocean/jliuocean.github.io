@@ -6,18 +6,18 @@
     <description>Recent content in fh on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 May 2019 22:49:55 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2019 13:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://jliuocean.github.io/tags/fh/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>OSBL turbulence</title>
+      <title>Project</title>
       <link>https://jliuocean.github.io/research/fh/</link>
-      <pubDate>Fri, 03 May 2019 22:49:55 -0500</pubDate>
+      <pubDate>Wed, 01 May 2019 13:00:00 -0500</pubDate>
       
       <guid>https://jliuocean.github.io/research/fh/</guid>
-      <description>Wind direction is an important yet overlooked factor in OSBL turbulent mixing parameterization.</description>
+      <description>An example of using the in-built project page.</description>
     </item>
     
   </channel>
