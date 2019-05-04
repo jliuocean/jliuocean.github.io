@@ -96,6 +96,12 @@
   </url>
   
   <url>
+    <loc>https://jliuocean.github.io/tags/osbl-turbulence/</loc>
+    <lastmod>2018-05-10T10:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jliuocean.github.io/research/fh/</loc>
     <lastmod>2018-05-10T10:00:00-05:00</lastmod>
   </url>
@@ -108,12 +114,6 @@
   
   <url>
     <loc>https://jliuocean.github.io/tags/</loc>
-    <lastmod>2018-05-10T10:00:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jliuocean.github.io/tags/fh/</loc>
     <lastmod>2018-05-10T10:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
