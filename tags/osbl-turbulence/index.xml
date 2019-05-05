@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OSBL turbulence on Academic</title>
+    <title>OSBL turbulence on Jinliang Liu</title>
     <link>https://jliuocean.github.io/tags/osbl-turbulence/</link>
-    <description>Recent content in OSBL turbulence on Academic</description>
+    <description>Recent content in OSBL turbulence on Jinliang Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 May 2018 10:00:00 -0500</lastBuildDate>
@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>Project</title>
+      <title>Oceanic Surface Boundary Layer Turbulence</title>
       <link>https://jliuocean.github.io/research/fh/</link>
       <pubDate>Thu, 10 May 2018 10:00:00 -0500</pubDate>
       
       <guid>https://jliuocean.github.io/research/fh/</guid>
-      <description>An example of using the in-built project page.</description>
+      <description>The variability in turbulent flows to wind direction is different at different latitudes and in opposite hemispheres.</description>
     </item>
     
   </channel>
