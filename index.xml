@@ -32,10 +32,29 @@
     <item>
       <title>Flocculation dynamics</title>
       <link>https://jliuocean.github.io/research/floc/</link>
-      <pubDate>Wed, 01 May 2019 11:00:00 -0500</pubDate>
+      <pubDate>Sat, 20 Apr 2019 11:00:00 -0500</pubDate>
       
       <guid>https://jliuocean.github.io/research/floc/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://jliuocean.github.io/research/floc/C.gif&#34; alt=&#34;Instantaneous&#34; /&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Cohesive sediments exist as flocs of different sizes, which are built and destroyed through flocculation processes including both aggregation and breakup.
+Recent observations showed that Langmuir circulations that span the entire water column are related to intense sediment resuspension on the shallow shelf.
+Combining a size-resovling flocculation model with a large-eddy simulation model, we show that the aggregation and breakup rates can be enhanced or suppresed by turbulence.
+The animation below show the sediment resuspension when Langmuir circulations occupy the water column.&lt;/p&gt;
+
+&lt;p&gt;Reference: Liu et al., 2019 (submitted).&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;img src=&#34;https://jliuocean.github.io/research/floc/C.gif&#34; alt=&#34;Instantaneous&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;[a] Nomalized vertical velocity, [b] normalized turbulent kinetic energy dissipation rate, and [c] normalized suspended sediment concentration&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 </description>
     </item>
     
@@ -144,7 +163,7 @@ Our study demonstrates that wind direction is an important parameter to upper-oc
       <description>&lt;p&gt;Estuaries and coastal marine ecosystems are significantly influenced by incoming freshwater, which carries carbon, nutrients, plankton, dissolved oxygen, and suspended matter.
 From the perspective of ecosystem management, it is important to understand the timescales of dissolved substances taken by the water body to transport from the source to any part of the system (i.e., water age).
 Using the Estuarine, Coastal Ocean Model with Sediment Transport (ECOMSED), we examined the water age in a semi-enclosed bay (Lianzhou Bay) in the northern of the Beibu Gulf, based on the Constituent oriented Age and Residence time Theory (CART).
-We found that the mean age at a specified position and the runoff of the Nanliu River are well correlated and can be approximately expressed by a natural logarithmic function. The water age is strongly affected by the river runoff and tides.&lt;/p&gt;
+We found that the mean age at a specific position and the runoff of the Nanliu River are well correlated and can be approximately expressed by a natural logarithmic function. The water age is strongly affected by the river runoff and tides.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://jliuocean.github.io/research/age/age.png&#34; alt=&#34;Water Age&#34; /&gt;&lt;/p&gt;
 </description>
