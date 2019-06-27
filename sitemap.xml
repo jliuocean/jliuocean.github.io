@@ -3,6 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jliuocean.github.io/</loc>
+    <lastmod>2019-06-20T10:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jliuocean.github.io/research/</loc>
+    <lastmod>2019-06-20T10:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jliuocean.github.io/tags/submesoscale-processes/</loc>
+    <lastmod>2019-06-20T10:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jliuocean.github.io/research/submeso/</loc>
+    <lastmod>2019-06-20T10:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jliuocean.github.io/tags/</loc>
+    <lastmod>2019-06-20T10:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jliuocean.github.io/authors/jinliang-liu/</loc>
     <lastmod>2019-05-01T23:53:12-05:00</lastmod>
     <priority>0</priority>
@@ -22,12 +51,6 @@
   
   <url>
     <loc>https://jliuocean.github.io/authors/celalettin-emre-ozdemir/</loc>
-    <lastmod>2019-05-01T23:53:12-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jliuocean.github.io/</loc>
     <lastmod>2019-05-01T23:53:12-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -98,18 +121,6 @@
   <url>
     <loc>https://jliuocean.github.io/research/floc/</loc>
     <lastmod>2019-04-20T11:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jliuocean.github.io/research/</loc>
-    <lastmod>2019-04-20T11:00:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jliuocean.github.io/tags/</loc>
-    <lastmod>2019-04-20T11:00:00-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

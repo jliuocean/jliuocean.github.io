@@ -6,10 +6,19 @@
     <description>Recent content in Researches on Jinliang Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Apr 2019 11:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2019 10:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://jliuocean.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Submesoscale processes</title>
+      <link>https://jliuocean.github.io/research/submeso/</link>
+      <pubDate>Thu, 20 Jun 2019 10:00:00 -0500</pubDate>
+      
+      <guid>https://jliuocean.github.io/research/submeso/</guid>
+      <description>Submesoscale fronts and filaments have important impacts on vertical mixing.</description>
+    </item>
     
     <item>
       <title>Flocculation dynamics</title>
