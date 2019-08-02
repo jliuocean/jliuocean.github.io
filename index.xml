@@ -22,13 +22,43 @@
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th align=&#34;center&#34;&gt;&lt;img src=&#34;https://jliuocean.github.io/research/submeso/buoy.gif&#34; alt=&#34;Northern Hemisphere&#34; /&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;img src=&#34;https://jliuocean.github.io/research/submeso/buoy1.gif&#34; alt=&#34;Northern Hemisphere&#34; /&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;(a) Instantaneous buoyancy field, (b) surface buoyancy field, &amp;copy; horizontal velocity u, (d) vertical velocity w&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The animation below shows the mixed layer baroclinic instability simulated by LES model.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;img src=&#34;https://jliuocean.github.io/research/submeso/buoy2.gif&#34; alt=&#34;Northern Hemisphere&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;(a) Instantaneous temperature field, (b) surface temperature, &amp;copy; vertical velocity at z=-1.8m, (d) vertical velocity w at z=-9.1m&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;img src=&#34;https://jliuocean.github.io/research/submeso/w_3D7.gif&#34; alt=&#34;Northern Hemisphere&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Instantaneous vertical velocity&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
