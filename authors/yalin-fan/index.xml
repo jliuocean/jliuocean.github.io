@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yalin Fan on Jinliang Liu</title>
@@ -6,17 +6,26 @@
     <description>Recent content in Yalin Fan on Jinliang Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 May 2019 23:29:26 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2020 21:25:39 +0000</lastBuildDate>
     
 	<atom:link href="https://jliuocean.github.io/authors/yalin-fan/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Surface Gravity Waves and Their Role in Ocean-Atmosphere Coupling in the Gulf of Mexico</title>
-      <link>https://jliuocean.github.io/publication/ehsan-2019-surface/</link>
-      <pubDate>Wed, 01 May 2019 23:29:26 -0500</pubDate>
+      <link>https://jliuocean.github.io/publication/ehsan-2020-surface/</link>
+      <pubDate>Wed, 10 Jun 2020 21:25:39 +0000</pubDate>
       
-      <guid>https://jliuocean.github.io/publication/ehsan-2019-surface/</guid>
+      <guid>https://jliuocean.github.io/publication/ehsan-2020-surface/</guid>
+      <description>The Gulf of Mexico (GoM) is a marginal sea that provides many critical resources for the United States, Mexico, and Cuba. Waves at the ocean surface play an important role in the GoM. These waves are significantly affected by ocean currents. Major ocean currents in the GoM include the Loop Current, which enters the GoM from the Yucatan channel and leaves through the Strait of Florida, and westward‐propagating eddies that are circular currents spanning a hundred kilometers or so. Our results show that mean wave heights are altered by up to 0.18 m (±15%) by currents in the GoM. The wind waves away from their origin, called swell, are substantial in summer in the northern GoM and in the southwestern GoM. They are able to drive the wind. The wind and the waves can also affect the mixing in the upper ocean differently across seasons and locations in the GoM, implying that their roles should be explicitly accounted for in computational ocean models.</description>
+    </item>
+    
+    <item>
+      <title>Effect of planetary rotation on oceanic surface boundary layer turbulence</title>
+      <link>https://jliuocean.github.io/talk/damtp2020-lab/</link>
+      <pubDate>Fri, 21 Feb 2020 13:00:00 +0000</pubDate>
+      
+      <guid>https://jliuocean.github.io/talk/damtp2020-lab/</guid>
       <description></description>
     </item>
     
@@ -32,7 +41,7 @@
     <item>
       <title>Effect of planetary rotation on oceanic surface boundary layer turbulence</title>
       <link>https://jliuocean.github.io/publication/liu-2018-effect/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0600</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://jliuocean.github.io/publication/liu-2018-effect/</guid>
       <description></description>

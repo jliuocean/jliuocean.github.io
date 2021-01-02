@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Water age on Jinliang Liu</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Water age on Jinliang Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 May 2016 11:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 01 May 2016 11:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://jliuocean.github.io/tags/water-age/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Water age</title>
       <link>https://jliuocean.github.io/research/age/</link>
-      <pubDate>Sun, 01 May 2016 11:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 May 2016 11:00:00 +0100</pubDate>
       
       <guid>https://jliuocean.github.io/research/age/</guid>
       <description>The water age distribution varies in response to changes in runoff and the tides.</description>

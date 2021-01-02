@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peter P Sullivan on Jinliang Liu</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Peter P Sullivan on Jinliang Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jliuocean.github.io/authors/peter-p-sullivan/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Effect of planetary rotation on oceanic surface boundary layer turbulence</title>
       <link>https://jliuocean.github.io/publication/liu-2018-effect/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0600</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://jliuocean.github.io/publication/liu-2018-effect/</guid>
       <description></description>

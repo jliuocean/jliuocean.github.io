@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Antarctic Circumpolar Current on Jinliang Liu</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Antarctic Circumpolar Current on Jinliang Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jliuocean.github.io/tags/antarctic-circumpolar-current/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Sensitivity of the Antarctic Circumpolar Current transport to surface buoyancy conditions in the North Atlantic</title>
       <link>https://jliuocean.github.io/publication/sun-2017-sensitivity/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://jliuocean.github.io/publication/sun-2017-sensitivity/</guid>
       <description></description>

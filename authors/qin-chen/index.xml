@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Qin Chen on Jinliang Liu</title>
@@ -6,26 +6,35 @@
     <description>Recent content in Qin Chen on Jinliang Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 May 2019 23:53:12 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2020 13:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jliuocean.github.io/authors/qin-chen/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Modeling sediment flocculation in Langmuir turbulence</title>
-      <link>https://jliuocean.github.io/publication/liu-2019-modeling/</link>
-      <pubDate>Wed, 01 May 2019 23:53:12 -0500</pubDate>
+      <title>Effect of planetary rotation on oceanic surface boundary layer turbulence</title>
+      <link>https://jliuocean.github.io/talk/damtp2020-lab/</link>
+      <pubDate>Fri, 21 Feb 2020 13:00:00 +0000</pubDate>
       
-      <guid>https://jliuocean.github.io/publication/liu-2019-modeling/</guid>
+      <guid>https://jliuocean.github.io/talk/damtp2020-lab/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Surface Gravity Waves and Their Role in Ocean-Atmosphere Coupling in the Gulf of Mexico</title>
-      <link>https://jliuocean.github.io/publication/ehsan-2019-surface/</link>
-      <pubDate>Wed, 01 May 2019 23:29:26 -0500</pubDate>
+      <title>Modelling sediment flocculation in Langmuir turbulence</title>
+      <link>https://jliuocean.github.io/talk/damtp2020/</link>
+      <pubDate>Fri, 07 Feb 2020 14:20:00 +0000</pubDate>
       
-      <guid>https://jliuocean.github.io/publication/ehsan-2019-surface/</guid>
+      <guid>https://jliuocean.github.io/talk/damtp2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling sediment flocculation in Langmuir turbulence</title>
+      <link>https://jliuocean.github.io/publication/liu-2019-modeling/</link>
+      <pubDate>Sat, 02 Nov 2019 21:08:12 +0000</pubDate>
+      
+      <guid>https://jliuocean.github.io/publication/liu-2019-modeling/</guid>
       <description></description>
     </item>
     
@@ -41,7 +50,7 @@
     <item>
       <title>Effect of planetary rotation on oceanic surface boundary layer turbulence</title>
       <link>https://jliuocean.github.io/publication/liu-2018-effect/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0600</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://jliuocean.github.io/publication/liu-2018-effect/</guid>
       <description></description>
