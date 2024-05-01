@@ -12,56 +12,270 @@
     
     
     <item>
-      <title>Publications</title>
-      <link>https://jliuocean.github.io/publication/</link>
+      <title>Surface Gravity Waves and Their Role in Ocean-Atmosphere Coupling in the Gulf of Mexico</title>
+      <link>https://jliuocean.github.io/publication/ehsan-2020-surface/</link>
       <pubDate>Wed, 10 Jun 2020 21:25:39 +0000</pubDate>
       
-      <guid>https://jliuocean.github.io/publication/</guid>
+      <guid>https://jliuocean.github.io/publication/ehsan-2020-surface/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recent Talks</title>
-      <link>https://jliuocean.github.io/talk/</link>
+      <title>Effect of planetary rotation on oceanic surface boundary layer turbulence</title>
+      <link>https://jliuocean.github.io/talk/damtp2020-lab/</link>
       <pubDate>Fri, 21 Feb 2020 13:00:00 +0000</pubDate>
       
-      <guid>https://jliuocean.github.io/talk/</guid>
+      <guid>https://jliuocean.github.io/talk/damtp2020-lab/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Researches</title>
-      <link>https://jliuocean.github.io/research/</link>
-      <pubDate>Thu, 20 Jun 2019 10:00:00 +0100</pubDate>
+      <title>Modelling sediment flocculation in Langmuir turbulence</title>
+      <link>https://jliuocean.github.io/talk/damtp2020/</link>
+      <pubDate>Fri, 07 Feb 2020 14:20:00 +0000</pubDate>
       
-      <guid>https://jliuocean.github.io/research/</guid>
+      <guid>https://jliuocean.github.io/talk/damtp2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://jliuocean.github.io/project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      <title>Modeling sediment flocculation in Langmuir turbulence</title>
+      <link>https://jliuocean.github.io/publication/liu-2019-modeling/</link>
+      <pubDate>Sat, 02 Nov 2019 21:08:12 +0000</pubDate>
       
-      <guid>https://jliuocean.github.io/project/</guid>
+      <guid>https://jliuocean.github.io/publication/liu-2019-modeling/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Authors</title>
-      <link>https://jliuocean.github.io/author/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Submesoscale processes</title>
+      <link>https://jliuocean.github.io/research/submeso/</link>
+      <pubDate>Thu, 20 Jun 2019 10:00:00 -0700</pubDate>
       
-      <guid>https://jliuocean.github.io/author/</guid>
+      <guid>https://jliuocean.github.io/research/submeso/</guid>
+      <description>&lt;p&gt;The animation shows the evolution of submesoscale fronts (a warm front between two cold fronts) simulated by LES model.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;img src=&#34;https://jliuocean.github.io/research/submeso/buoy1.gif&#34; alt=&#34;Northern Hemisphere&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;(a) Instantaneous buoyancy field, (b) surface buoyancy field, &amp;copy; horizontal velocity u, (d) vertical velocity w&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The animation below shows the mixed layer baroclinic instability simulated by LES model.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;img src=&#34;https://jliuocean.github.io/research/submeso/buoy2.gif&#34; alt=&#34;Northern Hemisphere&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;(a) Instantaneous temperature field, (b) surface temperature, &amp;copy; vertical velocity at z=-1.8m, (d) vertical velocity w at z=-9.1m&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;img src=&#34;https://jliuocean.github.io/research/submeso/w_3D7.gif&#34; alt=&#34;Northern Hemisphere&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Instantaneous vertical velocity&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Flocculation dynamics</title>
+      <link>https://jliuocean.github.io/research/floc/</link>
+      <pubDate>Sat, 20 Apr 2019 11:00:00 -0700</pubDate>
+      
+      <guid>https://jliuocean.github.io/research/floc/</guid>
+      <description>&lt;p&gt;Cohesive sediments exist as flocs of different sizes, which are built and destroyed through flocculation processes including both aggregation and breakup.
+Recent observations showed that Langmuir circulations that span the entire water column are related to intense sediment resuspension on the shallow shelf.
+Combining a size-resovling flocculation model with a large-eddy simulation model, we found that the aggregation and breakup rates can be enhanced or suppresed by turbulence.
+The animation below shows the sediment resuspension when Langmuir circulations occupy the water column.&lt;/p&gt;
+
+&lt;p&gt;Reference: &lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019JC015197&#34; target=&#34;_blank&#34;&gt;Liu et al., 2019&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;img src=&#34;https://jliuocean.github.io/research/floc/C.gif&#34; alt=&#34;Instantaneous&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;[a] Nomalized vertical velocity, [b] normalized turbulent kinetic energy dissipation rate, and [c] normalized suspended sediment concentration in Langmuir turbulence (h=15m)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Oceanic Surface Boundary Layer Turbulence</title>
+      <link>https://jliuocean.github.io/research/fh/</link>
+      <pubDate>Fri, 07 Sep 2018 10:00:00 -0700</pubDate>
+      
+      <guid>https://jliuocean.github.io/research/fh/</guid>
+      <description>&lt;p&gt;Turbulent flows in the oceanic surface boundary layer (OSBL) are important to Earth’s climate and marine environment. They control the air–sea exchange of heat, momentum, and trace materials. OSBL turbulence is driven by surface atmospheric conditions including winds, waves, and heat fluxes and is modulated by stratification and the rotation of Earth.
+Using a large-eddy simulation model for oceanic surface boudnary layer, we found that when considering the horizontal (northward) component of Earth’s rotation, which is neglected in the momentum equation in circulation models, the mean flow, turbulence, and vertical mixing depend on the wind direction.
+The variability in turbulent flows to wind direction is different at different latitudes and in opposite hemispheres.
+We also found that the profiles of eddy viscosity, including its shape and its value, show a strong wind direction dependence for both stratified wind-driven and wave-driven Langmuir turbulence.
+Our study demonstrates that wind direction is an important parameter to upper-ocean mixing, though it is overlooked in existing ocean models.&lt;/p&gt;
+
+&lt;p&gt;Reference: &lt;a href=&#34;https://journals.ametsoc.org/doi/10.1175/JPO-D-17-0150.1&#34; target=&#34;_blank&#34;&gt;Liu et al. (2018)&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;img src=&#34;https://jliuocean.github.io/research/fh/w15N.gif&#34; alt=&#34;Northern Hemisphere&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Normalized vertical velocity at z=-30m in the unstratified turbulent Ekman layer at 15 degree in the Northern Hemisphere (theta is the angle measured from the norward direction, e.g., northward wind for theta=0)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;img src=&#34;https://jliuocean.github.io/research/fh/w15S.gif&#34; alt=&#34;Southern Hemisphere&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Normalized vertical velocity at z=-30m in the unstratified turbulent Ekman layer at 15 degree in the Southern Hemisphere (theta is the angle measured from the norward direction, e.g., northward wind for theta=0)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Effect of planetary rotation on oceanic surface boundary layer turbulence</title>
+      <link>https://jliuocean.github.io/talk/osm2018/</link>
+      <pubDate>Fri, 16 Feb 2018 09:15:00 -0500</pubDate>
+      
+      <guid>https://jliuocean.github.io/talk/osm2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>https://jliuocean.github.io/post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Effect of planetary rotation on oceanic surface boundary layer turbulence</title>
+      <link>https://jliuocean.github.io/publication/liu-2018-effect/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
       
-      <guid>https://jliuocean.github.io/post/</guid>
+      <guid>https://jliuocean.github.io/publication/liu-2018-effect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Coriolis force not discussed in ocs4170 and its effect on upper ocean mixing</title>
+      <link>https://jliuocean.github.io/talk/cego2017/</link>
+      <pubDate>Fri, 01 Sep 2017 12:00:00 -0700</pubDate>
+      
+      <guid>https://jliuocean.github.io/talk/cego2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of planetary rotation on wind and wave driven turbulence -- a numerical study</title>
+      <link>https://jliuocean.github.io/talk/gss2016/</link>
+      <pubDate>Sat, 18 Mar 2017 11:00:00 -0500</pubDate>
+      
+      <guid>https://jliuocean.github.io/talk/gss2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensitivity of the Antarctic Circumpolar Current transport to surface buoyancy conditions in the North Atlantic</title>
+      <link>https://jliuocean.github.io/publication/sun-2017-sensitivity/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      
+      <guid>https://jliuocean.github.io/publication/sun-2017-sensitivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical study on the influences of Nanliu River runoff and tides on water age in Lianzhou Bay</title>
+      <link>https://jliuocean.github.io/publication/yu-2016-numerical/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://jliuocean.github.io/publication/yu-2016-numerical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Water age</title>
+      <link>https://jliuocean.github.io/research/age/</link>
+      <pubDate>Sun, 01 May 2016 11:00:00 -0700</pubDate>
+      
+      <guid>https://jliuocean.github.io/research/age/</guid>
+      <description>&lt;p&gt;Estuaries and coastal marine ecosystems are significantly influenced by incoming freshwater, which carries carbon, nutrients, plankton, dissolved oxygen, and suspended matter.
+From the perspective of ecosystem management, it is important to understand the timescales of dissolved substances taken by the water body to transport from the source to any part of the system (i.e., water age).
+Using the Estuarine, Coastal Ocean Model with Sediment Transport (ECOMSED), we examined the water age in a semi-enclosed bay (Lianzhou Bay) in the northern of the Beibu Gulf in China, based on the Constituent oriented Age and Residence time Theory (CART).
+We found that the mean age at a specific position and the runoff of the Nanliu River are well correlated and can be approximately expressed by a natural logarithmic function. The water age is strongly affected by the river runoff and tides.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://jliuocean.github.io/research/age/age.png&#34; alt=&#34;Water Age&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>https://jliuocean.github.io/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://jliuocean.github.io/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internal Project</title>
+      <link>https://jliuocean.github.io/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://jliuocean.github.io/project/internal-project/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Large eddy simulation of suspended sediments in shallow water</title>
+      <link>https://jliuocean.github.io/talk/gsa2016/</link>
+      <pubDate>Mon, 21 Mar 2016 17:05:00 -0500</pubDate>
+      
+      <guid>https://jliuocean.github.io/talk/gsa2016/</guid>
       <description></description>
     </item>
     

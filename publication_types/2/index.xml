@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Jinliang Liu</title>
@@ -32,7 +32,7 @@
     <item>
       <title>Effect of planetary rotation on oceanic surface boundary layer turbulence</title>
       <link>https://jliuocean.github.io/publication/liu-2018-effect/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
       
       <guid>https://jliuocean.github.io/publication/liu-2018-effect/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>Sensitivity of the Antarctic Circumpolar Current transport to surface buoyancy conditions in the North Atlantic</title>
       <link>https://jliuocean.github.io/publication/sun-2017-sensitivity/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
       <guid>https://jliuocean.github.io/publication/sun-2017-sensitivity/</guid>
       <description></description>
@@ -50,7 +50,7 @@
     <item>
       <title>Numerical study on the influences of Nanliu River runoff and tides on water age in Lianzhou Bay</title>
       <link>https://jliuocean.github.io/publication/yu-2016-numerical/</link>
-      <pubDate>Thu, 01 Sep 2016 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 -0700</pubDate>
       
       <guid>https://jliuocean.github.io/publication/yu-2016-numerical/</guid>
       <description></description>

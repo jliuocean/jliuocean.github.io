@@ -1,45 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://jliuocean.github.io/publication_types/2/</loc>
     <lastmod>2020-06-10T21:25:39+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jliuocean.github.io/authors/and-jinliang-liu/</loc>
-    <lastmod>2020-06-10T21:25:39+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/authors/</loc>
     <lastmod>2020-06-10T21:25:39+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/authors/ehsan-abolfazli/</loc>
     <lastmod>2020-06-10T21:25:39+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/</loc>
     <lastmod>2020-06-10T21:25:39+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/authors/junhong-liang/</loc>
     <lastmod>2020-06-10T21:25:39+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/authors/nan-d.-walker/</loc>
     <lastmod>2020-06-10T21:25:39+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/publication_types/</loc>
     <lastmod>2020-06-10T21:25:39+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -50,6 +52,7 @@
   <url>
     <loc>https://jliuocean.github.io/authors/qin-jim-chen/</loc>
     <lastmod>2020-06-10T21:25:39+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -60,11 +63,19 @@
   <url>
     <loc>https://jliuocean.github.io/authors/yalin-fan/</loc>
     <lastmod>2020-06-10T21:25:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jliuocean.github.io/authors/and-jinliang-liu/</loc>
+    <lastmod>2020-06-10T21:25:39+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/authors/jinliang-liu/</loc>
     <lastmod>2020-02-21T13:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -75,21 +86,25 @@
   <url>
     <loc>https://jliuocean.github.io/authors/james-c.-mcwilliams/</loc>
     <lastmod>2020-02-21T13:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/authors/jun-hong-liang/</loc>
     <lastmod>2020-02-21T13:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/authors/peter-p.-sullivan/</loc>
     <lastmod>2020-02-21T13:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/authors/qin-chen/</loc>
     <lastmod>2020-02-21T13:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -100,11 +115,13 @@
   <url>
     <loc>https://jliuocean.github.io/authors/celalettin-emre-ozdemir/</loc>
     <lastmod>2020-02-07T14:20:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/authors/kehui-xu/</loc>
     <lastmod>2020-02-07T14:20:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -113,53 +130,59 @@
   </url>
   
   <url>
-    <loc>https://jliuocean.github.io/authors/and-celalettin-emre-ozdemir/</loc>
-    <lastmod>2019-11-02T21:08:12+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jliuocean.github.io/publication/liu-2019-modeling/</loc>
     <lastmod>2019-11-02T21:08:12+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://jliuocean.github.io/authors/and-celalettin-emre-ozdemir/</loc>
+    <lastmod>2019-11-02T21:08:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jliuocean.github.io/research/</loc>
-    <lastmod>2019-06-20T10:00:00+01:00</lastmod>
+    <lastmod>2019-06-20T10:00:00-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/tags/submesoscale-processes/</loc>
-    <lastmod>2019-06-20T10:00:00+01:00</lastmod>
+    <lastmod>2019-06-20T10:00:00-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/research/submeso/</loc>
-    <lastmod>2019-06-20T10:00:00+01:00</lastmod>
+    <lastmod>2019-06-20T10:00:00-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/tags/</loc>
-    <lastmod>2019-06-20T10:00:00+01:00</lastmod>
+    <lastmod>2019-06-20T10:00:00-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/tags/flocculation/</loc>
-    <lastmod>2019-04-20T11:00:00+01:00</lastmod>
+    <lastmod>2019-04-20T11:00:00-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/research/floc/</loc>
-    <lastmod>2019-04-20T11:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jliuocean.github.io/research/fh/</loc>
-    <lastmod>2018-09-07T10:00:00+01:00</lastmod>
+    <lastmod>2019-04-20T11:00:00-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/tags/osbl-turbulence/</loc>
-    <lastmod>2018-09-07T10:00:00+01:00</lastmod>
+    <lastmod>2018-09-07T10:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jliuocean.github.io/research/fh/</loc>
+    <lastmod>2018-09-07T10:00:00-07:00</lastmod>
   </url>
   
   <url>
@@ -169,22 +192,24 @@
   
   <url>
     <loc>https://jliuocean.github.io/publication/liu-2018-effect/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-01T00:00:00-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/authors/james-c-mcwilliams/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-01T00:00:00-08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/authors/peter-p-sullivan/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-01T00:00:00-08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/talk/cego2017/</loc>
-    <lastmod>2017-09-01T12:00:00+01:00</lastmod>
+    <lastmod>2017-09-01T12:00:00-07:00</lastmod>
   </url>
   
   <url>
@@ -195,91 +220,104 @@
   <url>
     <loc>https://jliuocean.github.io/authors/jinliang-liu-and-jun-hong-liang/</loc>
     <lastmod>2017-03-18T11:00:00-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/tags/antarctic-circumpolar-current/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/tags/north-atlantic/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/tags/overturning-circulation/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/publication/sun-2017-sensitivity/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-01-01T00:00:00-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/authors/shantong-sun/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/authors/jing-yu/</loc>
-    <lastmod>2016-09-01T00:00:00+01:00</lastmod>
+    <lastmod>2016-09-01T00:00:00-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/publication/yu-2016-numerical/</loc>
-    <lastmod>2016-09-01T00:00:00+01:00</lastmod>
+    <lastmod>2016-09-01T00:00:00-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/authors/rui-liu/</loc>
-    <lastmod>2016-09-01T00:00:00+01:00</lastmod>
+    <lastmod>2016-09-01T00:00:00-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/authors/xing-wang/</loc>
-    <lastmod>2016-09-01T00:00:00+01:00</lastmod>
+    <lastmod>2016-09-01T00:00:00-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/authors/xueqing-zhang/</loc>
-    <lastmod>2016-09-01T00:00:00+01:00</lastmod>
+    <lastmod>2016-09-01T00:00:00-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/tags/water-age/</loc>
-    <lastmod>2016-05-01T11:00:00+01:00</lastmod>
+    <lastmod>2016-05-01T11:00:00-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/research/age/</loc>
-    <lastmod>2016-05-01T11:00:00+01:00</lastmod>
+    <lastmod>2016-05-01T11:00:00-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/tags/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+    <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+    <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+    <lastmod>2016-04-27T00:00:00-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+    <lastmod>2016-04-27T00:00:00-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+    <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -293,14 +331,21 @@
   
   <url>
     <loc>https://jliuocean.github.io/author/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jliuocean.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jliuocean.github.io/authors/admin/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>

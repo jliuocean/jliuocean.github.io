@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Researches on Jinliang Liu</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Researches on Jinliang Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jun 2019 10:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2019 10:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://jliuocean.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Submesoscale processes</title>
       <link>https://jliuocean.github.io/research/submeso/</link>
-      <pubDate>Thu, 20 Jun 2019 10:00:00 +0100</pubDate>
+      <pubDate>Thu, 20 Jun 2019 10:00:00 -0700</pubDate>
       
       <guid>https://jliuocean.github.io/research/submeso/</guid>
       <description>Submesoscale fronts and filaments can modify the vertical mixing.</description>
@@ -23,7 +23,7 @@
     <item>
       <title>Flocculation dynamics</title>
       <link>https://jliuocean.github.io/research/floc/</link>
-      <pubDate>Sat, 20 Apr 2019 11:00:00 +0100</pubDate>
+      <pubDate>Sat, 20 Apr 2019 11:00:00 -0700</pubDate>
       
       <guid>https://jliuocean.github.io/research/floc/</guid>
       <description>Flocculation affects the floc size and spatial distribution in the water column.</description>
@@ -32,7 +32,7 @@
     <item>
       <title>Oceanic Surface Boundary Layer Turbulence</title>
       <link>https://jliuocean.github.io/research/fh/</link>
-      <pubDate>Fri, 07 Sep 2018 10:00:00 +0100</pubDate>
+      <pubDate>Fri, 07 Sep 2018 10:00:00 -0700</pubDate>
       
       <guid>https://jliuocean.github.io/research/fh/</guid>
       <description>The variability in turbulent flows to wind direction is different at different latitudes and in opposite hemispheres.</description>
@@ -41,7 +41,7 @@
     <item>
       <title>Water age</title>
       <link>https://jliuocean.github.io/research/age/</link>
-      <pubDate>Sun, 01 May 2016 11:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 May 2016 11:00:00 -0700</pubDate>
       
       <guid>https://jliuocean.github.io/research/age/</guid>
       <description>The water age distribution varies in response to changes in runoff and the tides.</description>

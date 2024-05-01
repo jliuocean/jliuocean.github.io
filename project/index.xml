@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Jinliang Liu</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Projects on Jinliang Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://jliuocean.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>External Project</title>
       <link>https://jliuocean.github.io/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://jliuocean.github.io/project/external-project/</guid>
       <description>An example of linking directly to an external project website using &lt;code&gt;external_link&lt;/code&gt;.</description>
@@ -23,7 +23,7 @@
     <item>
       <title>Internal Project</title>
       <link>https://jliuocean.github.io/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://jliuocean.github.io/project/internal-project/</guid>
       <description>An example of using the in-built project page.</description>

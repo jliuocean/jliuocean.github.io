@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent Talks on Jinliang Liu</title>
@@ -41,7 +41,7 @@
     <item>
       <title>The Coriolis force not discussed in ocs4170 and its effect on upper ocean mixing</title>
       <link>https://jliuocean.github.io/talk/cego2017/</link>
-      <pubDate>Fri, 01 Sep 2017 12:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Sep 2017 12:00:00 -0700</pubDate>
       
       <guid>https://jliuocean.github.io/talk/cego2017/</guid>
       <description></description>

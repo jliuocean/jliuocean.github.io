@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Jinliang Liu</title>
@@ -10,15 +10,6 @@
     
 	<atom:link href="https://jliuocean.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>and **Jinliang Liu**</title>
-      <link>https://jliuocean.github.io/authors/and-jinliang-liu/</link>
-      <pubDate>Wed, 10 Jun 2020 21:25:39 +0000</pubDate>
-      
-      <guid>https://jliuocean.github.io/authors/and-jinliang-liu/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Ehsan Abolfazli</title>
@@ -62,6 +53,15 @@
       <pubDate>Wed, 10 Jun 2020 21:25:39 +0000</pubDate>
       
       <guid>https://jliuocean.github.io/authors/yalin-fan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>and **Jinliang Liu**</title>
+      <link>https://jliuocean.github.io/authors/and-jinliang-liu/</link>
+      <pubDate>Wed, 10 Jun 2020 21:25:39 +0000</pubDate>
+      
+      <guid>https://jliuocean.github.io/authors/and-jinliang-liu/</guid>
       <description></description>
     </item>
     
@@ -140,7 +140,7 @@
     <item>
       <title>James C McWilliams</title>
       <link>https://jliuocean.github.io/authors/james-c-mcwilliams/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
       
       <guid>https://jliuocean.github.io/authors/james-c-mcwilliams/</guid>
       <description></description>
@@ -149,7 +149,7 @@
     <item>
       <title>Peter P Sullivan</title>
       <link>https://jliuocean.github.io/authors/peter-p-sullivan/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
       
       <guid>https://jliuocean.github.io/authors/peter-p-sullivan/</guid>
       <description></description>
@@ -167,7 +167,7 @@
     <item>
       <title>Shantong Sun</title>
       <link>https://jliuocean.github.io/authors/shantong-sun/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
       <guid>https://jliuocean.github.io/authors/shantong-sun/</guid>
       <description></description>
@@ -176,7 +176,7 @@
     <item>
       <title>Jing Yu</title>
       <link>https://jliuocean.github.io/authors/jing-yu/</link>
-      <pubDate>Thu, 01 Sep 2016 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 -0700</pubDate>
       
       <guid>https://jliuocean.github.io/authors/jing-yu/</guid>
       <description></description>
@@ -185,7 +185,7 @@
     <item>
       <title>Rui Liu</title>
       <link>https://jliuocean.github.io/authors/rui-liu/</link>
-      <pubDate>Thu, 01 Sep 2016 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 -0700</pubDate>
       
       <guid>https://jliuocean.github.io/authors/rui-liu/</guid>
       <description></description>
@@ -194,7 +194,7 @@
     <item>
       <title>Xing Wang</title>
       <link>https://jliuocean.github.io/authors/xing-wang/</link>
-      <pubDate>Thu, 01 Sep 2016 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 -0700</pubDate>
       
       <guid>https://jliuocean.github.io/authors/xing-wang/</guid>
       <description></description>
@@ -203,9 +203,18 @@
     <item>
       <title>Xueqing Zhang</title>
       <link>https://jliuocean.github.io/authors/xueqing-zhang/</link>
-      <pubDate>Thu, 01 Sep 2016 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 -0700</pubDate>
       
       <guid>https://jliuocean.github.io/authors/xueqing-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>admin</title>
+      <link>https://jliuocean.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jliuocean.github.io/authors/admin/</guid>
       <description></description>
     </item>
     
